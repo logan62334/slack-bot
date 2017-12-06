@@ -54,8 +54,8 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'proxy'
-copyright = '2017, proxy'
+project = 'jarvis'
+copyright = '2017, jarvis'
 author = 'mafei'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -138,7 +138,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'proxydoc'
+htmlhelp_basename = 'jarvisdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -165,8 +165,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'proxy.tex', 'proxy Documentation',
-     'proxy', 'manual'),
+    (master_doc, 'jarvis.tex', 'jarvis Documentation',
+     'jarvis', 'manual'),
 ]
 
 
@@ -175,7 +175,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'proxy', 'proxy Documentation',
+    (master_doc, 'jarvis', 'jarvis Documentation',
      [author], 1)
 ]
 
@@ -186,7 +186,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'proxy', 'proxy Documentation',
-     author, 'proxy', 'One line description of project.',
+    (master_doc, 'jarvis', 'jarvis Documentation',
+     author, 'jarvis', 'One line description of project.',
      'Miscellaneous'),
 ]

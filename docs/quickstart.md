@@ -1,9 +1,9 @@
 # QuickStart
 
-## Launch proxy Service
+## Launch jarvis Service
 
 ```
-(venv) ➜  $ proxy
-A Terminal Tools For proxy
+(venv) ➜  $ jarvis
+A Terminal Tools For jarvis
 Hit Ctrl-C to quit.
 ```

@@ -3,37 +3,37 @@
 Installation
 ============
 
-Install ``proxy`` for the first time::
+Install ``jarvis`` for the first time::
 
-    $ pip install proxy
+    $ pip install jarvis
 
 
 Upgrade
 -------
 
-If you have installed ``proxy`` before and want to upgrade to the latest version, you can use the ``-U`` option.
+If you have installed ``jarvis`` before and want to upgrade to the latest version, you can use the ``-U`` option.
 
 This option works on each installation method described above. ::
 
-    $ pip install -U proxy
+    $ pip install -U jarvis
 
 Check Installation
 ------------------
 
-When proxy is installed, a **proxy** command should be available in your shell (if you're not using
+When proxy is installed, a **jarvis** command should be available in your shell (if you're not using
 virtualenv—which you should—make sure your python script directory is on your path).
 
-To see ``proxy`` version: ::
+To see ``jarvis`` version: ::
 
-    $ proxy -v
+    $ jarvis -v
     A Terminal Tools For proxy
     Version: 0.0.1
 
 To see available options, run::
 
-    $ proxy --help
-    A Terminal Tools For proxy
-    Usage: proxy [OPTIONS]
+    $ jarvis --help
+    A Terminal Tools For jarvis
+    Usage: jarvis [OPTIONS]
 
     Options:
         -v, --version           show the version of this tool
@@ -43,7 +43,7 @@ To see available options, run::
 Supported Python Versions
 -------------------------
 
-proxy supports Python 2.7.
+jarvis supports Python 2.7.
 
-``proxy`` has been tested on ``macOS`` platforms.
+``jarvis`` has been tested on ``macOS`` platforms.
 
